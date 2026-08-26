@@ -37,7 +37,7 @@ NovaMart achieved **$120K in revenue** and **$41,853 in overall profit** this ye
 
 #### 1. Trend & Profitability Metrics
 * **Monthly Trends:** Revenue nearly tripled over the year, but profit only grew **~2.3x**, with margins compressing sharply in Q4 (December).
-![Monthly Trend Chart](images/trend.png)
+![Monthly Trend Chart](images/trendLine.png)
 
 * **Product Profitability:** **Noise-Cancelling Headphones** generated the highest overall revenue but carried the highest average discount (**13%**) and lowest profit margin (**17.3%**). Conversely, **Power Banks** had the lowest discount (**10%**) and highest profit margin (**31.4%**).
 
