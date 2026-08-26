@@ -27,7 +27,7 @@ Prior to analysis, quality control checks were conducted using Excel functions t
 ## 📈 Executive Summary
 
 ### Overview of Findings
-NovaMart increased revenue and overall profit this year, though profit growth trailed revenue growth. New customers drove **55% of total orders**, but operational weaknesses threaten long-term sustainability. Notably, **North Africa**—the top revenue-generating region—has the highest order delay rate (**56.5%**) and the lowest customer satisfaction score (**3.64 / 5.0**).
+NovaMart achieved **$120K in revenue** and **$41,853 in overall profit** this year with a **34.8% profit margin**. While performance remains strong with an overall **4.0 / 5.0 customer satisfaction score**, operational bottlenecks persist across regions—highlighted by a company-wide **36.7% order delay rate** that threatens long-term profitability and customer experience.
 
 ![Tableau Overview Dashboard](images/Dashboard.png)
 
