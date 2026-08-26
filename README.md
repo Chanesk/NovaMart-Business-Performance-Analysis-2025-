@@ -17,7 +17,7 @@ This analysis evaluates four key business dimensions:
 ## 📅 Dataset & Data Preparation
 This dataset represents NovaMart's 2025 transactional operations across Africa, containing order details, delivery statuses, customer satisfaction scores, revenue, and profit metrics.
 
-![Dataset Overview](path/to/your/dataset-screenshot.png)
+![Dataset Overview](images/novamart_dataset.png)
 
 ### Quality Control & Preprocessing
 Prior to analysis, quality control checks were conducted using Excel functions to inspect data integrity, standardise values, and prepare fields for aggregation.
@@ -29,7 +29,7 @@ Prior to analysis, quality control checks were conducted using Excel functions t
 ### Overview of Findings
 NovaMart increased revenue and overall profit this year, though profit growth trailed revenue growth. New customers drove **55% of total orders**, but operational weaknesses threaten long-term sustainability. Notably, **North Africa**—the top revenue-generating region—has the highest order delay rate (**56.5%**) and the lowest customer satisfaction score (**3.64 / 5.0**).
 
-![Tableau Overview Dashboard](path/to/your/tableau-overview.png)
+![Tableau Overview Dashboard](images/Dashboard.png)
 
 ---
 
@@ -37,7 +37,7 @@ NovaMart increased revenue and overall profit this year, though profit growth tr
 
 #### 1. Trend & Profitability Metrics
 * **Monthly Trends:** Revenue nearly tripled over the year, but profit only grew **~2.3x**, with margins compressing sharply in Q4 (December).
-![Monthly Trend Chart](path/to/your/monthly-trend.png)
+![Monthly Trend Chart](images/trend.png)
 
 * **Product Profitability:** **Noise-Cancelling Headphones** generated the highest overall revenue but carried the highest average discount (**13%**) and lowest profit margin (**17.3%**). Conversely, **Power Banks** had the lowest discount (**10%**) and highest profit margin (**31.4%**).
 
@@ -51,13 +51,13 @@ NovaMart increased revenue and overall profit this year, though profit growth tr
 | **Total / Blended** | **$37,346.12** | **$7,751.94** | **12%** | **20.8%** | - |
 
 * **Discount vs. Margin Correlation:** Scatter plot regression reveals an $R^2$ of **0.906**, indicating that discount levels explain **~91% of the variation in profit margin**. 
-![Discount Scatter Plot](path/to/your/scatter-plot.png)
+![Discount Scatter Plot](images/scale.png)
   * Margin falls from roughly **47% at 0% discount** down to nearly **0% at ~35% discount**.
   * Every 5-point increase in discount costs approximately **6–7 percentage points of profit margin**.
 
 #### 2. Operational Performance
 * **North Africa** generates the highest regional revenue (**$31.9K**), but suffers from a severely high order delay rate of **56.52%**.
-![Regional Delays Chart](path/to/your/regional-delays.png)
+![Regional Delays Chart](images/OrdersDelayed.png)
 
 #### 3. Customer Experience
 * A stark satisfaction gap exists around product returns:
